@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "輝きのエチュード",
+  "base_artist": "わか from STAR☆ANIS",
+  "createdAt": "2025-12-24T08:23:48.584877Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "輝きのエチュード",
+      "artist": "わか from STAR☆ANIS",
+      "has_synced": false,
+      "path": "select/pl_01_輝きのエチュード_わか_from_STAR☆ANIS.txt"
+    }
+  ]
+}
